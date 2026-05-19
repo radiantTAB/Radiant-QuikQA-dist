@@ -1,0 +1,109 @@
+Radiant QuikQA — Evaluation Software License Agreement
+
+Copyright © 2026 Radiant Medical Physics Consulting LLC.
+All rights reserved.
+
+This software (the "Software") is the proprietary work of Radiant
+Medical Physics Consulting LLC ("Licensor"). By downloading, installing,
+accessing, or using the Software you ("Licensee") agree to the terms
+below. If you do not agree, do not download, install, or use the
+Software.
+
+1. Grant of License.
+   Licensor grants Licensee a personal, revocable, non-exclusive,
+   non-transferable, non-sublicensable license to install and use the
+   Software solely for internal evaluation and testing of its
+   functionality, in a non-production environment, by qualified
+   medical physicists or radiation oncology professionals.
+
+2. Restrictions.
+   Licensee shall NOT:
+   (a) use the Software, or any output derived from the Software, for
+       clinical decision-making, treatment planning, patient-care
+       decisions, dosimetric calibration, machine release-to-service,
+       or any other activity that affects, directly or indirectly,
+       the diagnosis or treatment of any patient;
+   (b) redistribute, publish, sublicense, sell, rent, lease, host as
+       a service, or otherwise transfer the Software or any portion
+       of it to any third party;
+   (c) modify, adapt, translate, reverse-engineer, decompile, or
+       create derivative works of the Software, except to the extent
+       such restriction is prohibited by applicable law;
+   (d) remove, alter, or obscure any proprietary notices on the
+       Software or its accompanying materials;
+   (e) use the Software in violation of any applicable law or
+       regulation, including without limitation the U.S. Health
+       Insurance Portability and Accountability Act (HIPAA), the
+       U.S. Food, Drug, and Cosmetic Act, or any analogous
+       jurisdiction-specific law concerning the regulation of medical
+       devices or the protection of patient health information.
+
+3. Not a Medical Device.
+   The Software is provided strictly as an unvalidated analysis aid
+   for evaluation purposes. It has NOT been cleared, approved, or
+   registered by the U.S. Food and Drug Administration or any other
+   regulatory authority as a medical device, and MUST NOT be relied
+   upon as the sole or primary basis for any clinical or patient-care
+   decision. All tolerances, methods, and outputs MUST be
+   independently reviewed and approved by a Qualified Medical
+   Physicist for the Licensee's institution, and cross-checked
+   against an independent validated method, before any operational
+   use.
+
+4. No PHI on Third-Party Channels.
+   Licensee shall not transmit any Protected Health Information (PHI)
+   or any other patient-identifying data to Licensor, to any third-
+   party service used by the Software, or via any public distribution
+   channel (including issue trackers or public forums) in connection
+   with the evaluation of the Software. Any test data shared with
+   Licensor for troubleshooting must be fully de-identified.
+
+5. Intellectual Property.
+   The Software, all copies, and all related documentation, including
+   any feedback or suggestions provided by Licensee, are and shall
+   remain the sole property of Licensor. No rights are granted to
+   Licensee except as expressly set forth in this Agreement. Third-
+   party components bundled with the Software (including but not
+   limited to PyLinac, PyInstaller, and their respective dependencies)
+   remain governed by their own open-source licenses, copies of which
+   are available from their respective projects.
+
+6. Term and Termination.
+   This license is effective until terminated. Licensor may terminate
+   it at any time, with or without notice. The license terminates
+   automatically upon any breach by Licensee. Upon termination,
+   Licensee shall cease all use of the Software and destroy all copies
+   in its possession or control.
+
+7. Disclaimer of Warranty.
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT
+   WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+   TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   ACCURACY, RELIABILITY, NON-INFRINGEMENT, AND ANY WARRANTY ARISING
+   FROM COURSE OF DEALING OR USAGE OF TRADE. LICENSOR DOES NOT
+   WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR
+   FREE OF HARMFUL COMPONENTS.
+
+8. Limitation of Liability.
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT
+   SHALL LICENSOR, ITS MEMBERS, OFFICERS, EMPLOYEES, OR AGENTS BE
+   LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+   PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, OR USE,
+   ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE SOFTWARE,
+   WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE),
+   OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT LICENSOR HAS BEEN
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL
+   CUMULATIVE LIABILITY ARISING FROM OR RELATED TO THIS AGREEMENT OR
+   THE SOFTWARE SHALL NOT EXCEED ONE HUNDRED U.S. DOLLARS (US$100).
+
+9. Entire Agreement.
+   This Agreement constitutes the entire agreement between the parties
+   with respect to its subject matter and supersedes all prior or
+   contemporaneous communications, whether oral or written, with
+   respect to such subject matter.
+
+Contact
+-------
+Radiant Medical Physics Consulting LLC
+Email:   tbernath@radiant-mpc.com
+Website: https://radiant-mpc.com
